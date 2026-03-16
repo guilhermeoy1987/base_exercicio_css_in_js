@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Cores } from '../../styles'
+import { Cores } from '../../global'
 
 export const Header = styled.header`
   background-color: ${Cores.corSecundaria};

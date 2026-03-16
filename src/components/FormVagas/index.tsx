@@ -1,7 +1,7 @@
 import { FormEvent, useState } from 'react'
 
 import FormSearch, { ButtonSearch, InputSearch } from './styles'
-import { Container } from '../../styles'
+import { Container } from '../../global'
 
 type Props = {
   aoPesquisar: (termo: string) => void

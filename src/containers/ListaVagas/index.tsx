@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import FormVagas from '../../components/FormVagas'
 import VagaComponente from '../../components/Vaga' // 1. IMPORT CORRIGIDO (SEM AS TAGS < >)
-import { Container } from '../../styles'
+import { Container } from '../../global'
 import Vacancies from './styles'
 
 // Definição do tipo para cada vaga

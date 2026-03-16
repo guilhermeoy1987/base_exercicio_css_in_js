@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Cores } from '../../styles'
+import { Cores } from '../../global'
 
 const FormSearch = styled.form`
   display: grid;

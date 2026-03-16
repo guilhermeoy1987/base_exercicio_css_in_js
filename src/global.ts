@@ -39,8 +39,8 @@ declare module 'styled-components' {
 
 // 4. Cores
 export const Cores= {
-  corPrincipal: '#191970',
-  corSecundaria: '#f1f1f1'
+  corPrincipal: '#a7727d',
+  corSecundaria: '#f9f5e7'
 }
 
 export default EstiloGLobal
